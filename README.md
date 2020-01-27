@@ -1,4 +1,4 @@
-# API Solo Project
+# Retrieve the information about the weather
 This was created during my time as a student at Code Chrysalis.
 
 # Get the current weather
